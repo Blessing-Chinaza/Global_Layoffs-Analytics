@@ -2,25 +2,25 @@
 
 ## Overview
 
-Global_Layoffs Analytics is more than just a dataset — it’s a lens into the shifting dynamics of the global workforce.  
+Global_Layoffs Analytics is more than just a dataset; it’s a lens into the shifting dynamics of the global workforce.  
 By combining **SQL-powered data cleaning** with **Power BI visual storytelling**, this project transforms raw layoff records into meaningful insights about how companies, industries, and regions respond to economic pressures.
 
 ## Why This Matters
-Layoffs are not just numbers — they reflect broader trends in funding, growth, and resilience.  
+Layoffs are not just numbers; they reflect broader trends in funding, growth, and resilience.  
 This repository helps uncover:
 - Which industries are most affected
 - How funding levels relate to workforce reductions
 - Geographic patterns of layoffs across countries
 - Monthly and yearly trends in employment cuts
 
-## What’s Inside
+## Contents
 - **Cleaned Dataset** → Reliable, structured data ready for analysis  
 - **SQL Scripts** → Transparent cleaning and preprocessing steps  
 - **Power BI Dashboards** → Interactive visuals for exploring trends  
 - **Documentation** → Methodology and definitions for clarity  
 
 ## Goal
-To provide researchers, analysts, and curious minds with a clear, data-driven view of global layoffs — turning scattered records into actionable knowledge.
+To provide researchers, analysts, and curious minds with a clear, data-driven view of global layoffs; turning scattered records into actionable knowledge.
   
 # Global_Layoffs Analytics – Dataset Fields
 
@@ -300,7 +300,7 @@ Overall, 2023 reflects a period of significant workforce cuts, especially in the
 
 # Dashboard 4 – December 2022 Filter
 
-![December2022 Dashboard](.image/december2023_dashboard.png)
+![December2022 Dashboard](.image/december2022_dashboard.png)
 
 # Key Finding 
 
@@ -374,8 +374,9 @@ Stage analysis suggests resilience at both early and very late stages, with mid�
  Data Analyst| Medical Laboratory Scientist| Virtual Assistant
 
 ---
+
 ## Contact
-![LinkedIn](https://www.linkedin.com/in/blessing-nwokike/)
+[LinkedIn](https://www.linkedin.com/in/blessing-nwokike/)
 
 *Feel free to connect for collaborations, projects, or professional opportunities.*  
  
