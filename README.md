@@ -21,8 +21,12 @@ This repository helps uncover:
 
 ## Goal
 To provide researchers, analysts, and curious minds with a clear, data-driven view of global layoffs; turning scattered records into actionable knowledge.
-  
-# Global_Layoffs Analytics – Dataset Fields
+
+
+---
+
+
+# Dataset Fields
 
 - **Company** → Name of the company  
 - **Location** → City or region where the company operates  
@@ -34,10 +38,12 @@ To provide researchers, analysts, and curious minds with a clear, data-driven vi
 - **Country** → Country of operation  
 - **Funds_Raised (millions)** → Total funding raised in millions  
 
----
-# Raw Dataset
+## Raw Dataset
 
 ![Raw Dataset](image/raw_dataset.png)
+
+
+---
 
 
 # step 1: Data Cleaning Process (SQL)
@@ -244,10 +250,15 @@ SELECT *
 FROM world_layoffs_2.raw_layoff_stagging2;
 ```
 
+## Clean Dataset
+
+
 ![Clean Dataset](image/clean_dataset.png)
 
 
+
 ---
+
 
 # General Dashboard 1 – Global Workforce Tracker
 
@@ -271,7 +282,7 @@ Together, these insights highlight cyclical, regional, and industry‑specific b
 
 ![2021 Dashboard](image/2021_dashboard.png)
 
-# Key Finding
+## Key Finding
 
 The second dashboard focuses on layoffs in **2021**, a year still shaped by the aftermath of COVID‑19.  
 Despite global challenges, total layoffs stood at **10k**, making it the **lowest year** compared to 2022 and 2023.  
@@ -287,7 +298,7 @@ This makes 2021 an anomaly in the broader layoff trend, offering insights into h
 
 ![2023 Dashboard](image/2023_dashboard.png)
 
-# Key Finding
+## Key Finding
 
 The third dashboard focuses on layoffs in **2023**, which recorded a total of **65.8k layoffs**, a sharp increase compared to 2021 with the lowest figures.  
 The **United States** dominated geographically, accounting for **48.011k layoffs**, far ahead of other countries.  
@@ -302,7 +313,7 @@ Overall, 2023 reflects a period of significant workforce cuts, especially in the
 
 ![December2022 Dashboard](image/december2022_dashboard.png)
 
-# Key Finding 
+## Key Finding 
 
 The fourth dashboard highlights layoffs in **December 2022**, a month that recorded **4.8k total layoffs**.  
 Despite the global trend, **China reported zero layoffs**, showing regional resilience.  
@@ -317,7 +328,7 @@ Overall, December 2022 illustrates how layoffs were unevenly distributed across 
 
 ![January2021 Dashboard](image/january2021_dashboard.png)
 
-# Key Finding
+## Key Finding
 
 The fifth dashboard highlights layoffs in **January 2021**, which recorded the **lowest total layoffs of 4.0k**.  
 The **Food industry** had the highest layoffs, followed by **Consumer**, while **Finance** reported the least.  
@@ -333,7 +344,7 @@ Overall, January 2021 reflects both the lowest global layoffs and a localized cr
 
 ![March2023 Dashboard](image/march2023_dashboard.png)
 
-# Key Finding
+## Key Finding
 
 The sixth dashboard highlights layoffs in **March 2023**, which recorded a total of **2.3k layoffs**, lower than January 2021.  
 Geographically, **Brazil led with 745 layoffs**, followed by **Australia with 600**, showing regional concentration outside the U.S. this month.  
@@ -354,9 +365,9 @@ Stage analysis suggests resilience at both early and very late stages, with mid�
 ---
 
 ## Tools and Technologies
-- **Data Visualization**: Power BI, Tableau (for charts and dashboards).  
-- **Data Processing**: Python (Pandas, NumPy), SQL for querying datasets.  
-- **Collaboration**: GitHub for version control.  .  
+- **Data Visualization**: Power BI (for charts and dashboards).  
+- **Data Processing**: SQL for querying datasets.  
+- **Collaboration**: GitHub for version control.  
 
 ---
 
@@ -371,6 +382,7 @@ Stage analysis suggests resilience at both early and very late stages, with mid�
 
 ## Author
  **Blessing-Chinaza**
+ 
  Data Analyst| Medical Laboratory Scientist| Virtual Assistant
 
 ---
@@ -386,8 +398,8 @@ Stage analysis suggests resilience at both early and very late stages, with mid�
 
 To explore this project locally:
 
-```bash
-# Clone the repository
+## Clone the repository
 
+```bash
 git clone https://github.com/Blessing-Chinaza/Global_Layoffs-Analytics.git
 
