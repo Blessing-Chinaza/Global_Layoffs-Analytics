@@ -37,7 +37,7 @@ To provide researchers, analysts, and curious minds with a clear, data-driven vi
 ---
 # Raw Dataset
 
-![Raw Dataset](.image/raw_dataset.png)
+![Raw Dataset](image/raw_dataset.png)
 
 
 # step 1: Data Cleaning Process (SQL)
@@ -244,14 +244,14 @@ SELECT *
 FROM world_layoffs_2.raw_layoff_stagging2;
 ```
 
-![Clean Dataset](.image/clean_dataset.png)
+![Clean Dataset](image/clean_dataset.png)
 
 
 ---
 
 # General Dashboard 1 – Global Workforce Tracker
 
-![General Dashboard](.image/gene_dashboard.png)
+![General Dashboard](image/gene_dashboard.png)
 
 The general dashboard provides a **comprehensive snapshot** of global layoffs, combining all charts into a single view.  
 It shows **193.4k total layoffs**, **0.43 million in funds raised**, and an overall **100% workforce reduction percentage**.
@@ -269,7 +269,7 @@ Together, these insights highlight cyclical, regional, and industry‑specific b
 
 # Dashboard 2 – Year 2021 Filter
 
-![2021 Dashboard](.image/2021_dashboard.png)
+![2021 Dashboard](image/2021_dashboard.png)
 
 # Key Finding
 
@@ -285,7 +285,7 @@ This makes 2021 an anomaly in the broader layoff trend, offering insights into h
 
 # Dashboard 3 – Year 2023 Filter
 
-![2023 Dashboard](.image/2023_dashboard.png)
+![2023 Dashboard](image/2023_dashboard.png)
 
 # Key Finding
 
@@ -300,7 +300,7 @@ Overall, 2023 reflects a period of significant workforce cuts, especially in the
 
 # Dashboard 4 – December 2022 Filter
 
-![December2022 Dashboard](.image/december2022_dashboard.png)
+![December2022 Dashboard](image/december2022_dashboard.png)
 
 # Key Finding 
 
@@ -315,7 +315,7 @@ Overall, December 2022 illustrates how layoffs were unevenly distributed across 
 
 # Dashboard 5 – January 2021 Filter
 
-![January2021 Dashboard](.image/january2021_dashboard.png)
+![January2021 Dashboard](image/january2021_dashboard.png)
 
 # Key Finding
 
@@ -331,7 +331,7 @@ Overall, January 2021 reflects both the lowest global layoffs and a localized cr
 
 # Dashboard 6 – March 2023 Filter
 
-![March2023 Dashboard](.image/march2023_dashboard.png)
+![March2023 Dashboard](image/march2023_dashboard.png)
 
 # Key Finding
 
@@ -380,5 +380,14 @@ Stage analysis suggests resilience at both early and very late stages, with mid�
 
 *Feel free to connect for collaborations, projects, or professional opportunities.*  
  
+---
 
+## How to Use
+
+To explore this project locally:
+
+```bash
+# Clone the repository
+
+git clone https://github.com/Blessing-Chinaza/Global_Layoffs-Analytics.git
 
