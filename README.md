@@ -29,12 +29,12 @@ To provide researchers, analysts, and curious minds with a clear, data-driven vi
 # Dataset Fields
 
 - **Company** → Name of the company  
-- **Location** → City or region where the company operates  
+- **Location** → City where the company operates  
 - **Industry** → Sector the company belongs to (e.g., Tech, Health, Finance)  
 - **Total_Laid_Off** → Number of employees laid off  
 - **Percentage_Laid_Off** → Proportion of workforce laid off (decimal format, e.g., 0.15 = 15%)  
 - **Date** → Date of the layoff event  
-- **Stage** → Company stage (Startup, Growth, Established, etc.)  
+- **Stage** → Company stage (Series A, Series G, Unknown, etc.)  
 - **Country** → Country of operation  
 - **Funds_Raised (millions)** → Total funding raised in millions  
 
